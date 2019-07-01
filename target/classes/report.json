@@ -1,0 +1,181 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "id": "addcustomer.feature;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 46949149601,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "The user is in telecom home page",
+            "match": {
+              "location": "Addcustonersteps.the_user_is_in_telecom_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14971750100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The user click on add customer",
+            "match": {
+              "location": "Addcustonersteps.the_user_click_on_add_customer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2632479201,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "The user is filling all the details",
+            "match": {
+              "location": "Addcustonersteps.the_user_is_filling_all_the_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6192542400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "The user click on submit button",
+            "match": {
+              "location": "Addcustonersteps.the_user_click_on_submit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 51964899,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "The user should be displayed id",
+            "match": {
+              "location": "Addcustonersteps.the_user_should_be_displayed_id()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Addcustomer.feature",
+    "description": "",
+    "id": "addcustomer.feature",
+    "keyword": "Feature",
+    "uri": "E:/ProjectWorkspace/cucumber1/src/main/resources/feature/AddCuctomer.feature",
+    "tags": []
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "id": "addtarfic-plan;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 15527468100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "The user is in telecom tariff page",
+            "match": {
+              "location": "Addtariffsteps.the_user_is_in_telecom_tariff_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14915292001,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The user click on add tariffplan",
+            "match": {
+              "location": "Addtariffsteps.the_user_click_on_add_tariffplan()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3953698100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "The user is filling all the tariff details",
+            "match": {
+              "location": "Addtariffsteps.the_user_is_filling_all_the_tariff_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4505139400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "The user click on tariff submit button",
+            "match": {
+              "location": "Addtariffsteps.the_user_click_on_tariff_submit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37285700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "The user should be displayed congratulation you add Tariff Plan",
+            "match": {
+              "location": "Addtariffsteps.the_user_should_be_displayed_congratulation_you_add_Tariff_Plan()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Addtarfic plan",
+    "description": "",
+    "id": "addtarfic-plan",
+    "keyword": "Feature",
+    "uri": "E:/ProjectWorkspace/cucumber1/src/main/resources/feature/Addtariff.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
